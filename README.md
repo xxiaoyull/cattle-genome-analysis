@@ -5,4 +5,4 @@ This project includes two main parts:
    - Read trimming, mapping, variant calling, and genotyping.
 
 2. **Downstream Analyses**  
-   - Performs population genetic analyses,  population structure, selection, introgression and CNV analyses.
+   - Population genetic analyses, population structure, selection, introgression and CNV analyses.
